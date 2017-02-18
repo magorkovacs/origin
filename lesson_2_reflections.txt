@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Its defferent because it allows you to customize your commits, being the value of it as well.
+
+dsfgd
+
