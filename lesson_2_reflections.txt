@@ -17,4 +17,15 @@ Yess...
 
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Its about putting together elements that have been introduced to the backbone of the code sparately without having to do it manually.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A great pro is that it takes so much less time, and btw i would also say that even when theres a conflict its easier to merge them the way git offers.
+
+
 
